@@ -1,0 +1,26 @@
+body, html, button, a {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    box-sizing: inherit;
+}
+
+body {
+    font-family: sans-serif;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+button, a {
+    padding: 10px;
+    border-radius: 5px;
+    width: 150px;
+    background: red;
+    display: block;
+    text-align: center;
+}
+
+a {
+    margin-top: 10px;
+}

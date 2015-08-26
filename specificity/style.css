@@ -1,0 +1,24 @@
+.working {
+    color: white;
+    background: #ddd;
+    height: 300px;
+    width: 500px;
+}
+#banana {
+    background: yellow;
+}
+
+.working .hard .sortofhard {
+    background: blue;
+}
+
+.somework {
+    background: white;
+    height: 100px;
+    width: 200px;
+}
+
+.sortofhard {
+    height: 100px;
+    width: 200px;
+}

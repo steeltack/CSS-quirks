@@ -1,0 +1,43 @@
+body, html, header, div, img, p {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+}
+
+body {
+    font-family: sans-serif;
+    background: #DDD;
+    padding: 30px;
+}
+
+header {
+    padding: 20px;
+    border: 2px solid #333;
+    text-align: center;
+}
+
+div {
+    padding: 30px;
+    background: #999;
+    width: 90px;
+    margin: 20px auto;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+img {
+    margin: 30px;
+    margin-top: 0;
+    float: left;
+}
+
+p {
+    color: #DDD;
+}
+
+div {
+    height: 0;
+    width: 0;
+}

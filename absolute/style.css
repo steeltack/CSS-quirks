@@ -1,0 +1,43 @@
+.container {
+    background: #999;
+    height: 400px;
+    margin: 30px;
+    padding: 50px;
+    width: 1000px;
+}
+
+.parent {
+    background: #ddd;
+    height: 300px;
+    width: 500px;
+    position: relative;
+}
+
+.child {
+    background: url(../cat.jpeg);
+    border-radius: 5px;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: -20px;
+    left: -20px;
+}
+
+/*.child2 {
+background: orchid;
+height: 100px;
+width: 100px;
+}*/
+
+
+/*
+
+reset coordinate system fixed relative absolute
+contained by parents system
+
+*/
+
+
+/*-webkit-box-shadow: 2px 7px 37px -2px rgba(0,0,0,0.75);*/
+/*-moz-box-shadow: 2px 7px 37px -2px rgba(0,0,0,0.75);*/
+/*box-shadow: 2px 7px 37px -2px rgba(0,0,0,0.75);*/

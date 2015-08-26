@@ -1,0 +1,58 @@
+body {
+    padding: 40px;
+}
+
+.clearright {
+    clear: right;
+    background: yellow;
+    width: 300px;
+}
+
+.clearleft {
+    clear: left;
+    background: yellow;
+    width: 300px;
+}
+
+div {
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+}
+
+.left {
+    float: left;
+}
+
+.red {
+    background: red;
+}
+
+.green {
+    background: green;
+}
+
+.right {
+    float: right;
+
+}
+
+.purple {
+    background: purple;
+    color: white;
+}
+
+.blue {
+    background: blue;
+    color: white;
+}
+
+.clear {
+    clear: both;
+    height: 600px;
+}
+
+.yellow {
+    background: yellow;
+    width: auto;
+}

@@ -1,0 +1,19 @@
+.parent {
+    background: #ddd;
+    height: 300px;
+    width: 500px;
+}
+
+.child {
+    background: orange;
+    height: 100px;
+    width: 100px;
+}
+
+/*
+
+line-height
+absolute with margin auto
+display table-cell vertical align
+
+*/
